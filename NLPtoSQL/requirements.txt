@@ -2,7 +2,4 @@ protobuf==4.25.3
 python-dotenv==1.0.1
 streamlit==1.32.2
 google-generativeai
-apache-beam[gcp]
-google-ai-generativelanguage
-google.api_core
-google-cloud
+
